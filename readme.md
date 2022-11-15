@@ -1,12 +1,10 @@
-# jeffrey-wilson-sdk
+# jeffrey-wilson-tlor-sdk
 npm package for connecting to The Lord of The Rings API.
 
 ## Install
 ```
-npm i jeffrey-wilson-sdk
+npm i jeffrey-wilson-tlor-sdk
 ```
-Please note that the package is not available yet but it will be published in 24 hours.
-
 ## Available Functions
 * getBooks()
 * getBook()
@@ -21,7 +19,7 @@ The optional paramaters are limit(number), page(number), offset(number) and sort
 
 ## Usage
 ```
-import { getBooks, getChapters } from 'jeffrey-wilson-SDK'
+import { getBooks, getChapters } from 'jeffrey-wilson-tlor-sdk'
 const books = await getBooks();
 const chapters = await getChapters();
 ```
