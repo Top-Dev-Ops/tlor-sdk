@@ -8,9 +8,9 @@ npm i jeffrey-wilson-tlor-sdk
 ## Available Functions
 * getBooks()
 * getBook()
-* getMovies
-* getQuotes
-* getChapters
+* getMovies()
+* getQuotes()
+* getChapters()
   
 You can specify parameters for pagination optionally.
 
