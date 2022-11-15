@@ -5,6 +5,7 @@ npm package for connecting to The Lord of The Rings API.
 ```
 npm i jeffrey-wilson-sdk
 ```
+Please note that the package is not available yet but it will be published in 24 hours.
 
 ## Available Functions
 * getBooks()
