@@ -1,5 +1,5 @@
 {
-  "name": "jeffrey-wilson-tlor-sdk",
+  "name": "tlor-sdk",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
